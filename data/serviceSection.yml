@@ -8,28 +8,27 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Healthcare Business
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Range from finance to analytical needs…
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Leadership/Team Development
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Train and mentor individuals to develop teams and leaders while employing theoretical …
+
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Process Improvement
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      ): Interdisciplinary evaluation to optimize efficiencies and effectiveness.
+
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Bridging the gap
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Formally/informally discuss navigating within/between academia and industry.
+      
     image: images/service/branding.svg
   - content: >
       #### UI/UX Design
